@@ -18,6 +18,6 @@ We will keep track of people who clicked through to article so to make our algor
 App will parse through the article and, through samantic analysis or tags, determine the gist of the article.
 App will parse through a users Facebook social graph and determine, through likes, comments and profile, people who would like the article
 
-Administrator would be able to install the app and make recommmendation recommendations to them. 
+Administrator would be able to install the app and make recommmendation recommendations to it. 
  
 
